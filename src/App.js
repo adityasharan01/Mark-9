@@ -111,7 +111,7 @@ export default function App() {
                 <div className="card">
               <div>
                 <Fade right>
-                <img src={`./images/${item.poster}`} className="cardimg"></img>
+                <img src={`./images/${item.poster}`} className="cardimg" alt="cardIMG"></img>
                 </Fade>
               </div>
               <div>
